@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Viktor Vaccani
 
-- 🟢 Hoje trabalho com Front-end
-- 🟢 Estudando Typescript
+- 🟢 Desenvolvedor Fullstack
+- 🟢 Estudando JavaScript
 - 🟢 contate-me no email: viktorcc3@gmail.com
 
 <div>
